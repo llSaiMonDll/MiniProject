@@ -1,8 +1,7 @@
 # MyMondMusic
 ![image](https://github.com/llSaiMonDll/MiniProject/assets/95870100/46ceb824-5bcc-427e-bde2-0ddc846d8457)
 
-This is my miniproject that can let you Create account and Post the content into website
-Even thought you can edit your bio to share your current mood. 
+My mini-project it's about music player that provide you can listen my music in my website and you can set your bio in your profile that express your feeling. 
 
 and here is some basic things that you must know to make it works!
 
